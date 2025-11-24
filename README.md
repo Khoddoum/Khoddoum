@@ -7,8 +7,9 @@
 <p align="center">
 
   🎓 <strong>Education:</strong> M.Sc. Mechanical Engineering — Amirkabir University of Technology - Tehran Polytechnic.<br/>
+      🔭 <strong> Master Thesis:</strong> Non-Linear Vibrations Systems.<br/>
   🎓 <strong>Education:</strong> B.Sc. Mechanical Engineering — Isfahan University of Technology (GPA: 3.81/4 or 17.65/20).<br/>
-    🔭 <strong> Master Thesis:</strong> Non-Linear Vibrations Systems.<br/>
+    🔭 <strong> Bachelor Thesis:</strong> FEM on Ring Rolling .<br/>
   🌱 <strong>Interests:</strong> Robotics · Dynamics & Control · Mechatronics · Biomechanics · Haptics · Sensors
 </p>
 
