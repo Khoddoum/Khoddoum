@@ -10,7 +10,7 @@
       🔭 <strong> Master Thesis:</strong> Non-Linear Vibrations Systems.<br/>
   🎓 <strong>Education:</strong> B.Sc. Mechanical Engineering — Isfahan University of Technology (GPA: 3.81/4 or 17.65/20).<br/>
     🔭 <strong> Bachelor Thesis:</strong> FEM on Ring Rolling .<br/>
-  🌱 <strong>Interests:</strong> Robotics · Dynamics & Control · Mechatronics · Biomechanics · Haptics · Sensors
+  🌱 <strong>Interests:</strong> Robotics · Dynamics & Control · Mechatronics · Sensors · Actuators · 
 </p>
 
 ---
