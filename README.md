@@ -36,7 +36,7 @@ When I'm not immersed in engineering, I enjoy:
 ## 📫 Get in Touch  
 
 I'm always open to collaboration and discussions related to my research interests. Feel free to reach out!  
-- **Website**: [https:/a-khoddoum.github.io/](https://a-khoddoum.github.io/)
+- **Website**: [https:/khoddoum.github.io/](https://khoddoum.github.io/)
 - **Email**: [a.khoddoum@gmail.com](a.khoddoum@gmail.com)   
 
 Thank you for visiting my GitHub profile! Let's connect and innovate together! 🌟
