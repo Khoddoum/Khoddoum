@@ -23,6 +23,7 @@ I am particularly interested in the following areas:
 - Control Theory
 - Data-Driven Modeling and Control
 - System Identifications
+- Medical Instruments
   
 
 ## 🏃‍♂️ Hobbies  
