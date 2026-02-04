@@ -1,6 +1,6 @@
 # 👋 Hi! I'm Ali
 
-Welcome to my GitHub profile! I'm a researcher in Vibrations and Control Systems theory with a passion for developing safe automation and data-driven systems that can positively impact society.   
+Welcome to my GitHub profile! I'm a researcher in Vibrations and Control Systems theory with a passion for developing Non-Linear dynamics and data-driven systems that can positively impact society.   
 
 ## 🎓 Education  
 
